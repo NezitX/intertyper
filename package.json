@@ -1,0 +1,29 @@
+{
+  "name": "simply-intertype",
+  "version": "1.0.0",
+  "description": "a simply package to use interface & type system in javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NezitX/simplyInterType.git"
+  },
+  "keywords": [
+    "interface",
+    "type",
+    "typings",
+    "typescript",
+    "intertype"
+  ],
+  "author": "NezitX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NezitX/simplyInterType/issues"
+  },
+  "homepage": "https://github.com/NezitX/simplyInterType#readme",
+  "dependencies": {
+    "kind-of": "^6.0.3"
+  }
+}
