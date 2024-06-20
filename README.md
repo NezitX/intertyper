@@ -6,14 +6,14 @@
   A simple package allows you to use interfaces and types in javascript.
   
 ## tablet of content
-1- [install the package](#install).
-2- [how to use the package](#usage).
-  - [use interface](#interface).
-      - [key options](#key-options).
-  - [use type](#type).
+1. [install the package](#install).
+2. [how to use the package](#usage).
+   - [use interface](#interface).
+     - [key options](#key-options).
+   - [use type](#type).
   
-3- [share features and bugs](#features--bugs).
-4- [help us to improve the package](#contributing).
+3. [share features and bugs](#features--bugs).
+4. [help us to improve the package](#contributing).
   
 ## install
 install with [npm](https://www.npmjs.com):
